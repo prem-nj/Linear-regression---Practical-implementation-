@@ -47,7 +47,7 @@ The dataset used is the **California Housing dataset**, which provides housing d
 
 ### Residual Distribution Plot  
 Below is the residual distribution plot of the model:  
-****![image](https://github.com/user-attachments/assets/afa72ada-c987-465c-afc8-7a6bacc83879)
+**![image](https://github.com/user-attachments/assets/afa72ada-c987-465c-afc8-7a6bacc83879)
 
 
 ## Results  
